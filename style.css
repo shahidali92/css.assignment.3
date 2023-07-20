@@ -1,0 +1,19 @@
+
+body{
+   text-align: center;
+  
+}
+h1{
+    font-size: 40px;
+    background-color: aqua;
+    padding: 38px;
+    line-height: 5px;
+}
+table{
+    line-height: 20px;
+    text-indent: 60px;
+}
+a:focus{
+    color:cyan
+
+}

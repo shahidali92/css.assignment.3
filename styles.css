@@ -1,0 +1,24 @@
+h1{
+    text-align: center;
+    background-color: aqua;
+    padding:40px;
+    font-size: 40px;
+}
+h2{
+    text-decoration: underline;
+    font-size: 70px;
+    font-style: oblique;
+    font-family: serif;
+    color:blue;
+    background-color: chartreuse;
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+p a{
+    font-size: 50px;
+}
+p a:hover{
+    color: aqua;
+}
